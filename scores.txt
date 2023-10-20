@@ -29,3 +29,5 @@ Paul : 15 : Murs en croix
 Paul : 95 : Murs en croix
 Paul : 5 : Murs en croix
 Paul : 50 : Murs en croix
+Paul : 55 : Murs autour
+Paul : 20 : Murs autour
