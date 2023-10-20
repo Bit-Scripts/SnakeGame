@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SnakeGame
+Version=v0.8.5
+Icon=snake_screenshot.png
+X-Icon-Path=/mnt/Git_Code_Linux/Snake/
+Exec=python /mnt/Git_Code_Linux/Snake/main.py
+Terminal=false
+Type=Application
+Categories=Game;
