@@ -49,7 +49,7 @@ Mangez les pommes pour gagner des points et faire grandir le serpent.
   
 ![Entrer son Nom](./Entrer_son_Nom.png)  
   
-![high score](./high_scores.png)  
+![high scores](./high_scores.png)  
 
 ## Licence
   
